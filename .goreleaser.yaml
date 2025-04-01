@@ -1,0 +1,16 @@
+builds:
+  - main: ./cobra/cmd/bingus/
+    id: "bingus-cbr"
+    binary: bingus-cbr
+    goos:
+      - linux
+      - darwin
+      - windows
+
+  - main: ./bta/cmd/bingus/
+    id: "bingus-bta"
+    binary: bingus-bta
+    goos:
+      - linux
+      - darwin
+      - windows
