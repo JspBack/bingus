@@ -6,10 +6,6 @@ It's a networking tool, perfect for pinging and uncovering open ports!
 
 **Warning:** Also it is not designed to be used as a package.
 
-Download release from relevant branches:  
-
-- **cobra-cmd** (main)
-  
-- **bubletea** (bub)
+You can download it from releases.
 
 <img src="./img/gato.jpeg" alt="gato" style="width:100%;" />
